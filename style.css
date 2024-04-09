@@ -1,0 +1,20 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+    background-color: grey;
+}
+
+.card {
+    background-color: aquamarine;
+    width: 300px;
+    text-align: center;
+    margin: 8px auto;
+    padding: 4px;
+}
+
+.list {
+    background-color:bisque;
+    text-align: left;
+}
